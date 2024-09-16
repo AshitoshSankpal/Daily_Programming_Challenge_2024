@@ -11,6 +11,9 @@ Output :
 The sorted array, arranged in increasing order of 0s, 1s, and 2s.
 Example: [0, 0, 0, 1, 1, 1, 2, 2]
 
+Detailed Problem Statement: 📄
+https://docs.google.com/document/d/1zulQT5UscxDgFheelTx8luFiIl7jarUzpjIMcSWFOV0/edit?usp=sharing 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 2 of 30  Q.2)
@@ -25,6 +28,9 @@ Example : arr = [1, 2, 4, 5]
 Output :
 Return the missing integer from the array.
 Example: Missing Number : 3
+
+Detailed Problem Statement: 📄
+https://docs.google.com/document/d/1C5MrTIn13JTzcEGD5QnNK1jzPlXAcZJ_Q_uCpJOVUAI/edit?usp=sharing 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 3 of 30 Q.3)
@@ -38,6 +44,10 @@ Example : arr = [3, 1, 3, 4, 2]
 Output :
 Return the duplicate integer present in the array.
 Example: Duplicate Number : 3
+
+Detailed Problem Statement: 📄
+https://docs.google.com/document/d/1MV-A97iJMh0Vr-JIhVOT5u59k4HWE8R-0gHept2FRFw/edit?usp=sharing 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,6 +68,9 @@ Example:
 arr1 = [1, 2, 3, 4]
 arr2 = [5, 6, 7, 8]
 
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1mgsQjvyyH3FkpW6T8OhlJs8ckhrWmLqkmI5jhhyKQek/edit?usp=sharing 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 5 of 30 Q.5)
@@ -74,6 +87,9 @@ Output :
 Return an array containing all the leader elements in the order in which they appear in the original array.
 Example:
 Leaders: [17, 5, 2]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1v1SHC2FKph3o5pac0OYMJUE-c3Lambu9sG6kX8U1scw/edit?usp=sharing 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -93,6 +109,9 @@ Output :
 Example
 Output: [(0, 2), (1, 3)]
 
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1PhtsKDIo14kjwsH5mS86m8oHC40xcKBMbZwqN6127HY/edit?usp=sharing 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 7 of 30 Q.7)
@@ -109,6 +128,9 @@ Output :
 * An integer representing the total units of water that can be trapped between the bars.
 Example
 Output: 6
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1I96Q-XbySvDCQaWnK8ZUZpsggWU8B7McCqp_PrIjwE4/edit?usp=sharing 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
