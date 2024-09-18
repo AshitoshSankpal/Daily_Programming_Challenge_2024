@@ -152,7 +152,7 @@ https://docs.google.com/document/d/13IzrCQA_ns6SJdwHDV1nIKo3-zCpPFn9b72sXWUyNDo/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 9 of 30 🗓
+Day 9 of 30 Q.9)
 
 Problem : Longest Common Prefix
 You are given an array of strings strs[], consisting of lowercase letters. Your task is to find the longest common prefix shared among all the strings. If there is no common prefix, return an empty string "".
@@ -168,6 +168,20 @@ Example: "fl"
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1--O8LT-DTcSTxi9PTChSS9bHE-Ht-izLKWqEyeXaK30/edit?usp=sharing 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Day 10 of 30 Q.10)
+
+Problem : Group Anagrams
+You are given an array of strings strs[]. Your task is to group all the strings that are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+Input :
+strs[] = ["eat", "tea", "tan", "ate", "nat", "bat"]
+
+Output :
+[["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1OU0WAba0tSedn4mO6mwAT6XcT4FSWIyA-q_AbmSNWXw/edit?usp=sharing 
 
 
 
