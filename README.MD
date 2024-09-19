@@ -183,6 +183,20 @@ Output :
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1OU0WAba0tSedn4mO6mwAT6XcT4FSWIyA-q_AbmSNWXw/edit?usp=sharing 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 11 of 30 🗓
+
+Problem : Permutations of a String
+You are given a string s. Your task is to generate and return all possible permutations of the characters in the string. A permutation is a rearrangement of the characters in the string, and each character must appear exactly once in every permutation. If there are duplicate characters in the string, the resulting permutations should also be unique (i.e., no repeated permutations).
+
+Input : "abc"
+
+Output : ["abc", "acb", "bac", "bca", "cab", "cba"]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1YMAR1kHq7TY_QbJMHVo9p0CnOtIcpeW4CypHK5DHHlg/edit?usp=sharing 
+
 
 
 
