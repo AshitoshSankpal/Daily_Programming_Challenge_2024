@@ -197,6 +197,21 @@ Output : ["abc", "acb", "bac", "bca", "cab", "cba"]
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1YMAR1kHq7TY_QbJMHVo9p0CnOtIcpeW4CypHK5DHHlg/edit?usp=sharing 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 12 of 30 Q.12)
+
+Problem : Valid Parentheses with Multiple Types
+You are given a string s consisting of different types of parentheses: (), {}, and []. Your task is to determine whether the given string is valid.
+
+Input : s = "[{()}]"
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1L2daffPK6gPK4nT2quqjc-Mk_2XoKgmKdMJgMUJiQ-0/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
