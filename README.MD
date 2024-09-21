@@ -213,5 +213,15 @@ https://docs.google.com/document/d/1L2daffPK6gPK4nT2quqjc-Mk_2XoKgmKdMJgMUJiQ-0/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 13 of 30 Q.13)
 
+Problem : Longest Palindromic Substring
+You are given a string s. Your task is to find and return the longest palindromic substring within the given string. A palindrome is a string that reads the same forwards and backwards.
+
+Input : "babad"
+
+Output : "bab"
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1m2rDN4sSuVQLUHuHwYuMZ5fWWEcm6G_yBWcFa5MjzS4/edit?usp=sharing 
 
