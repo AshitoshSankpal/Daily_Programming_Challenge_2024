@@ -225,3 +225,19 @@ Output : "bab"
 Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1m2rDN4sSuVQLUHuHwYuMZ5fWWEcm6G_yBWcFa5MjzS4/edit?usp=sharing 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 14 of 30 Q.14)
+
+Problem : Count Substrings with Exactly K Distinct Characters
+You are given a string s of lowercase English alphabets and an integer k. Your task is to count all possible substrings of s that contain exactly k distinct characters.
+
+Input : s = "pqpqs", k = 2
+
+Output : 7
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1RAfx0tIlp_eldiEGe13AKi3vCJkkGDZg6GW0sy-gudA/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
