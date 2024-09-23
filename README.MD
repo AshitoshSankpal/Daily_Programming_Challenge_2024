@@ -241,3 +241,16 @@ https://docs.google.com/document/d/1RAfx0tIlp_eldiEGe13AKi3vCJkkGDZg6GW0sy-gudA/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 15 of 30 🗓
+
+Problem : Find the Longest Substring Without Repeating Characters
+You are given a string S, and your task is to find the length of the longest substring that contains no repeating characters. A substring is a contiguous block of characters in the string.
+
+Input : S = "abcabcbb"
+
+Output : 3
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1PW2zGOhB7qmR5Qg3_WpZC382fuhIiXX84ZvSw85LOSs/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
