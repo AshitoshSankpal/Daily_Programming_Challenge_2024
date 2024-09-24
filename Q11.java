@@ -5,7 +5,7 @@ import java.util.*;
 public class Q11 {
 
     
-    public static List<String> Q11(String s) {
+    public static List<String> Q11 (String s) {
         
         Set<String> uniquePerms = new HashSet<>();
         
