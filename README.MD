@@ -254,3 +254,18 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1PW2zGOhB7qmR5Qg3_WpZC382fuhIiXX84ZvSw85LOSs/edit?usp=sharing 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 16 of 30 Q.16)
+
+Problem : LCM (Least Common Multiple) of Two Numbers
+You are given two integers, N and M. Your task is to find the Least Common Multiple (LCM) of these two numbers. The LCM of two integers is the smallest positive integer that is divisible by both N and M.
+
+Input : N = 4, M = 6
+
+Output : 12
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1GIHFvwWlSYDOr72tmor2FIip3Y-249HPmL70L067N9U/edit?usp=sharing
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
