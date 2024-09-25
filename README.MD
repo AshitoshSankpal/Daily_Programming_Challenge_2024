@@ -269,3 +269,16 @@ https://docs.google.com/document/d/1GIHFvwWlSYDOr72tmor2FIip3Y-249HPmL70L067N9U/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 17 of 30 Q.17)
+
+Problem : Prime Factorization of a Number
+Given a positive integer N, your task is to find its prime factorization. Return a list of prime numbers that multiply together to give N. If N is prime, the output should be a list containing only N.
+
+Input : N = 18
+
+Output : [2, 3, 3]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1SuttUyXw9y0O9PXxnXmxmi7vqCOwjRTDIluc84ZE9g0/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
