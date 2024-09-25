@@ -33,7 +33,7 @@ public class Q17 {
     }
 
     public static void main(String[] args) {
-        int N = 18;  // Example input
+        int N = 18; 
         
         List<Integer> result = primeFactors(N);
         System.out.println(result);  
