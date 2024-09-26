@@ -282,3 +282,17 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1SuttUyXw9y0O9PXxnXmxmi7vqCOwjRTDIluc84ZE9g0/edit?usp=sharing 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 18 of 30 Q.18)
+
+Problem : Count the Number of Divisors of a Number
+Given a positive integer N, your task is to find the total number of divisors (factors) of N. A divisor of N is any integer that divides N without leaving a remainder.
+
+Input : N = 12
+
+Output : 6
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1_soWs6kVTFv2kKwZhHyEaX2Xldvxh-yAzR62-EzGuWw/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
