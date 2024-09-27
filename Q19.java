@@ -59,7 +59,7 @@ public class Q19 {
     }
 
     public static void main(String[] args) {
-        // Test case
+       
         String expression = "3 4 2 * 1 5 - 2 3 ^ ^ / +";
         int result = evaluatePostfix(expression);
         System.out.println("Result: " + result); 
