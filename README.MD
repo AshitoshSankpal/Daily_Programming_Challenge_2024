@@ -296,3 +296,17 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1_soWs6kVTFv2kKwZhHyEaX2Xldvxh-yAzR62-EzGuWw/edit?usp=sharing 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 19 of 30 Q.19)
+
+Problem : Evaluate a Postfix Expression
+Given a postfix expression (also known as Reverse Polish Notation), your task is to evaluate the expression and return the result. The expression can contain integers and the four basic arithmetic operators +, -, *, and /. Assume that the input is always valid and the division operator performs integer division, truncating towards zero.
+
+Input : "2 1 + 3 *"
+
+Output : 9
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1cF8hywCkas2VbnU-wGRgQL6eGQCKbFwI98RL7hrlfo8/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
