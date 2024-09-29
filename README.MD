@@ -310,3 +310,17 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/1cF8hywCkas2VbnU-wGRgQL6eGQCKbFwI98RL7hrlfo8/edit?usp=sharing 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 20 of 30 Q.20)
+
+Problem : Sort a Stack Using Recursion
+Given a stack of integers, your task is to write a function that sorts the stack in ascending order. You are not allowed to use any additional data structure like arrays, lists, or another stack. The only operations you are allowed to perform are push, pop, and peek on the stack. The sorting must be performed using recursion only.
+
+Input : [3, 1, 4, 2]
+
+Output : [1, 2, 3, 4]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1c8LgrDXZGmq5f9v88mK7ApZ60Lt2PBoccNHQAryzXQs/edit?usp=sharing 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
