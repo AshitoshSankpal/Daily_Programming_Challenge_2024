@@ -338,3 +338,31 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/18ibm5itlOTW_qtOYrrffNlrAzxs5_Slif2zRnuIQ-C0/edit?usp=sharing 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Day 22 of 30 Q.22)
+
+Problem : First Element to Repeat k Times
+You are given an array of integers and an integer k. Your task is to find the first element in the array that appears exactly k times. If no such element exists, return -1.
+
+Input : arr = [3, 1, 4, 4, 5, 2, 6, 1, 4], k = 2
+
+Output : 1
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1U8HYrbWQ-dqELzca6gp21KzKIQmOAle9iB_TojWgyao/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 23 of 30 Q.23)
+
+Problem : Sliding Window Maximum
+You are given an array of integers arr and a positive integer k. Your task is to find the maximum element in each sliding window of size k. The window slides from left to right, one element at a time, and you need to return the maximum element for each of these windows.
+
+Input : arr = [1, 3, -1, -3, 5, 3, 6, 7], k = 3
+
+Output : [3, 3, 5, 5, 6, 7]
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1b1AG8BIm7eZYqG1tlwh9ZQd6cQbkVzHfuWx0cCH2fOc/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
