@@ -366,3 +366,76 @@ https://docs.google.com/document/d/1b1AG8BIm7eZYqG1tlwh9ZQd6cQbkVzHfuWx0cCH2fOc/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 24 of 30 Q.24)
+
+Problem : Lowest Common Ancestor (LCA) in a Binary Tree
+You are given a binary tree and two distinct nodes within the tree. Your task is to find the lowest common ancestor (LCA) of these two nodes. The LCA of two nodes p and q is defined as the lowest node in the tree that has both p and q as descendants (where we allow a node to be a descendant of itself).
+
+Input : root = [3, 5, 1, 6, 2, 0, 8, null, null, 7, 4], p = 5, q = 1
+
+Output : 3
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1jl4cvWbHoiDwkWFsQ_EDnquM08338HShqH0WpI6cFEs/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 25 of 30 Q.25)
+
+Problem : Check if a Binary Tree is a Binary Search Tree (BST)
+You are given the root of a binary tree. Your task is to determine whether the tree is a valid Binary Search Tree (BST)
+
+Input : root = [2, 1, 3]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1w4uUd7Ha07D1Uagk52_G372posIDEl_c8MfY-_pgHxc/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 26 of 30 Q.26)
+
+Problem : Detect a Cycle in an Undirected Graph
+You are given an undirected graph represented by an adjacency list. Your task is to determine if the graph contains any cycle. A cycle is formed if you can traverse through a sequence of edges that starts and ends at the same vertex.
+
+Input : V = 5, E = 5
+Edges = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 0]]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 27 of 30 Q.27)
+
+Problem : Find the Shortest Path in an Unweighted Graph
+You are given an unweighted graph represented by an adjacency list. Your task is to find the shortest path (in terms of the number of edges) between two given nodes in the graph.
+
+Input : V = 5
+Edges = [[0, 1], [0, 2], [1, 3], [2, 3], [3, 4]]
+start = 0
+end = 4
+
+Output : 
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1B3aczD-z87giHKkZy2Xn1EsHKPGqYvti8bLSL_dEzAg/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 28 of 30 Q.28)
+
+Problem : Check if a Binary Tree is Symmetric
+You are given the root of a binary tree. Your task is to determine whether the tree is symmetric. A binary tree is symmetric if the left and right subtrees are mirror images of each other.
+
+Input : [1, 2, 2, 3, 4, 4, 3]
+
+Output : true
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/12I0yn6UskWk68kuQNJ-O9jM7-qn7tjW69ih9JwlUubo/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
