@@ -439,3 +439,31 @@ Detailed Problem Statement : 📄
 https://docs.google.com/document/d/12I0yn6UskWk68kuQNJ-O9jM7-qn7tjW69ih9JwlUubo/edit?usp=sharing 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 29 of 30 Q.29)
+
+Problem : Fibonacci Sequence using Dynamic Programming
+You are given an integer n. Your task is to calculate the n-th Fibonacci number using Dynamic Programming.
+
+Input : 5
+
+Output : 5
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1exgb0WSFc5IVndnZIl-ZUVgHkmhYrs1hykfY60kVdwU/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 30 of 30 Q.30)
+
+Problem : The Coin Change Problem
+You are given an integer array coins[] of size n, where each element represents the denomination of a coin. You are also given an integer amount, representing the total amount of money. The task is to find the minimum number of coins required to make up the given amount.
+
+Input : coins = [1, 2, 5], amount = 11
+
+Output : 3
+
+Detailed Problem Statement : 📄
+https://docs.google.com/document/d/1s_I6WOk0xJld__Sh-GY8z38e3TjB72m3RYiCo12_4Bg/edit?usp=sharing 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
